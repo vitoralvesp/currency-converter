@@ -3,6 +3,7 @@ This application converts the currency to the latest rate using an external API.
 ```
 Language: Java
 Version: 23.0.1
+API: https://api.frankfurter.dev/v1/latest
 ```
 <br>  
 
